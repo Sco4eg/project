@@ -1,0 +1,7 @@
+0 изменяю файлы
+1 открыть терминал power shell 
+2 cd desktop\kod
+3 git status 
+4 git add им файла либо git add .(добавляет все файлы которые изменены)
+5 git commit -m "Комментарий"
+6 git push origin master 
